@@ -1,4 +1,4 @@
-JS_Truncate
+jQuery Truncate
 ===========
 
-Truncate text with javascript
+Truncate text with Javascript
