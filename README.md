@@ -8,12 +8,12 @@ How to use
 You can use it by simply adding a data attribute named "truncate" and set a numeric value for the number of lines.
 <br><br>
 
-##HTML<br>
+###HTML<br>
 ```
 <p data-truncate="2">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis eius ducimus exercitationem molestiae corporis optio accusamus ipsa. Nobis sapiente aperiam dignissimos voluptates mollitia sint, blanditiis sequi eos, velit laboriosam dolorem!</p>
 ```
 
-##JS
+###JS
 ```
 $(document).ready(function(){
   truncateAll();
@@ -21,7 +21,7 @@ $(document).ready(function(){
 ```
 Execute truncate on document load
 <br>
-##JS
+###JS
 ```
 $( window ).resize(function() {
   truncateAll();
