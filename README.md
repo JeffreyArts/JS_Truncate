@@ -21,7 +21,6 @@ $(document).ready(function(){
 ```
 Execute truncate on document load
 <br>
-###JS
 ```
 $( window ).resize(function() {
   truncateAll();
