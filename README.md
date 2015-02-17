@@ -12,9 +12,7 @@ HTML
 ```
 <p data-truncate="2">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis eius ducimus exercitationem molestiae corporis optio accusamus ipsa. Nobis sapiente aperiam dignissimos voluptates mollitia sint, blanditiis sequi eos, velit laboriosam dolorem!</p>
 ```
-
-
-
+<br><br>
 
 
 License
