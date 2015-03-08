@@ -29,6 +29,9 @@ $( window ).resize(function() {
 Execute truncate on window resize
 
 <br>
+[Live Example](http://www.jeffreyarts.nl/dashboard/project/truncate/)
+-------
+<br>
 License
 -------
 
